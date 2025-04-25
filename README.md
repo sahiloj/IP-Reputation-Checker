@@ -1,4 +1,4 @@
-# 🛡️ IP Reputation Checker CLI
+# 🛡️ IP Reputation Checker
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Made with Bash](https://img.shields.io/badge/made%20with-bash-1f425f.svg)](https://www.gnu.org/software/bash/)
@@ -24,8 +24,9 @@
 
 ### 1. 🔐 Insert Your API Keys
 
-Edit `check_ip.sh`:
+Edit `ipcheck.sh`:
 
 ```bash
 ABUSEIPDB_API_KEY="Insert Your AbuseIPDB API Key Here"
 VIRUSTOTAL_API_KEY="Insert Your VirusTotal API Key Here"
+
