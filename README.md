@@ -5,7 +5,7 @@
 [![VirusTotal API](https://img.shields.io/badge/API-VirusTotal-blueviolet)](https://www.virustotal.com/)
 [![AbuseIPDB API](https://img.shields.io/badge/API-AbuseIPDB-orange)](https://www.abuseipdb.com/)
 
-> ⚔️ A Bash-based threat intelligence tool to check the reputation of IPs using AbuseIPDB and VirusTotal APIs.  
+> ⚔️ A Bash-based threat intelligence script to check the reputation of IPs using AbuseIPDB and VirusTotal APIs.  
 > Fast, simple, and great for incident response, SOC automation, or security investigations.
 
 ---
